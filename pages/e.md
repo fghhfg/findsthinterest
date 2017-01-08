@@ -1,0 +1,5 @@
+# my page
+
+all md will auto render ??
+
+[image](https://fghhfg.github.io/findsthinterest/img/2017-01-03%2011_18_07-%E5%BD%AC%E5%BD%AC%E6%B4%8B%E8%A1%8C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%20%C2%B7%20%E9%99%B3%E5%BF%97%E5%BD%AC%20%C2%B7%20%E8%87%BA%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80%E6%83%A0%E4%BE%86%E9%87%8C%E5%B8%82%E6%94%BF%E8%B7%AF500%E8%99%9F22%E6%A8%93%E4%B9%8B5.png)
